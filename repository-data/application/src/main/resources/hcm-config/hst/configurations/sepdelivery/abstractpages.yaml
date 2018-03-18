@@ -1,0 +1,4 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/sepdelivery/hst:abstractpages:
+      jcr:primaryType: hst:pages

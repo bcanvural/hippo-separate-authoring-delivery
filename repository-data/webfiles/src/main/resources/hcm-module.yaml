@@ -1,0 +1,5 @@
+group: 
+  name: sepdelivery
+  after: hippo-cms
+project: sepdelivery
+module: sepdelivery-repository-data-webfiles

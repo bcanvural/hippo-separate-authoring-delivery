@@ -1,0 +1,7 @@
+group: 
+  name: sepdelivery
+  after: hippo-cms
+project: sepdelivery
+module: 
+  name: sepdelivery-repository-data-development
+  after: sepdelivery-repository-data-application

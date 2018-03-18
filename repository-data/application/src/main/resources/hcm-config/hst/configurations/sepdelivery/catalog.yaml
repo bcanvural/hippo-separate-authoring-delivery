@@ -1,0 +1,6 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/sepdelivery/hst:catalog:
+      jcr:primaryType: hst:catalog
+      /sepdelivery-catalog:
+        jcr:primaryType: hst:containeritempackage
